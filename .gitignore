@@ -34,4 +34,3 @@
 #build
 build/
 !Input.in
-!bin/ResultFiles
