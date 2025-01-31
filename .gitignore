@@ -29,8 +29,9 @@
 # Executables
 *.exe
 *.out
+!*.in
 *.app
 
 #build
 build/
-!Input.in
+.vscode/
