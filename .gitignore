@@ -32,7 +32,6 @@
 *.app
 
 #build
-bin/
 build/
 !Input.in
 !bin/ResultFiles
